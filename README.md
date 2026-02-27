@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html lang="th">
-<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ER ECG Master - Full Clinical Diagnosis</title>
@@ -44,7 +41,7 @@
 <body>
 
 <div class="card">
-    <h2>ตัวช่วยในการอ่าน EKG (รุ่นแก้ไข) ✌🏻</h2>
+    <h2>ตัวช่วยในการอ่าน EKG (รุ่น 2 ผ่านหมด) ✌🏻</h2>
 
     <div class="section-title">1. วัดค่าและสัญญาณชีพ (Vitals & Intervals)</div>
     <div class="grid-inputs">
